@@ -3,8 +3,8 @@ public class BudgetCalculator
     public static void main(String[] args) 
     {
         /*Constants*/
-        final double SALARY = 3000.0;
-        final double SAVINGS_PERCENT = 0.20;
+        final double SALARY = 4000.0;
+        final double SAVINGS_PERCENT = 0.10;
         final double RENT_PERCENT = 0.30;
         final double GROCERIES_PERCENT = 0.15;
         final double ENTERTAINMENT_PERCENT = 0.10;
